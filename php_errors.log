@@ -1,0 +1,16 @@
+[28-Feb-2016 03:53:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/Conexion.php on line 27
+[28-Feb-2016 03:53:21 UTC] PHP Stack trace:
+[28-Feb-2016 03:53:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/Functions.php:0
+[28-Feb-2016 03:53:21 UTC] PHP   2. Conexion->deleteUser() /home/ubuntu/workspace/lib/Functions.php:8
+[28-Feb-2016 03:53:37 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/Conexion.php on line 27
+[28-Feb-2016 03:53:37 UTC] PHP Stack trace:
+[28-Feb-2016 03:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/Functions.php:0
+[28-Feb-2016 03:53:37 UTC] PHP   2. Conexion->deleteUser() /home/ubuntu/workspace/lib/Functions.php:8
+[28-Feb-2016 03:54:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/Conexion.php on line 27
+[28-Feb-2016 03:54:15 UTC] PHP Stack trace:
+[28-Feb-2016 03:54:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/Functions.php:0
+[28-Feb-2016 03:54:15 UTC] PHP   2. Conexion->deleteUser() /home/ubuntu/workspace/lib/Functions.php:8
+[28-Feb-2016 03:54:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/Conexion.php on line 27
+[28-Feb-2016 03:54:48 UTC] PHP Stack trace:
+[28-Feb-2016 03:54:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/Functions.php:0
+[28-Feb-2016 03:54:48 UTC] PHP   2. Conexion->deleteUser() /home/ubuntu/workspace/lib/Functions.php:8

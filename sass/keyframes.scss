@@ -1,0 +1,24 @@
+@keyframes rotate{
+    0%{
+        @include transform(rotatex(0));
+    }
+    100%{
+        @include transform(rotatex(360deg));
+    }
+}
+@-webkit-keyframes rotate{
+    0%{
+        @include transform(rotatex(0));
+    }
+    100%{
+        @include transform(rotatex(360deg));
+    }
+}
+@-moz-keyframes rotate{
+    0%{
+        @include transform(rotatex(0));
+    }
+    100%{
+        @include transform(rotatex(360deg));
+    }
+}
